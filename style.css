@@ -7,3 +7,10 @@ body {
         background-color: red;
     }
 }
+
+@media  (min-width: 481px) and (max-width: 980px){
+    body {
+        background-color: green;
+    }
+}
+/*a cima da largura de 981px deixe na cor de fundo amarela*/
